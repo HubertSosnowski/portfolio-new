@@ -38,7 +38,7 @@ export const experiencesData = [
     title: "Ailleron - Mid Front-End Developer",
     location: "Rzeszów, PL",
     description:
-      "Currently I'm developing Fintech project - a customer management system and a back-office solution for one of Poland's leading banking institutions, using in general React.js.",
+      "Currently I'm developing Fintech project - a customer management system and a back-office solution for one of Poland's leading banking institutions, using mainly React.js.",
     icon: React.createElement(CgWorkAlt),
     date: "2021 - present",
   },
@@ -107,6 +107,7 @@ export const skillsData = [
   "TypeScript",
   "React",
   "Redux",
+  "Zustand",
   "styled-components",
   "Jest",
   "React Testing Library",
